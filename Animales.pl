@@ -3,13 +3,13 @@ es_un("ave"."animal").
 es_un("mamifero"."animal").
 es_un("avestruz","ave").
 es_un("albatros","ave").
-tiene("ave","plumas").
 pone("ave","ahuevo").
 da("mamifero","leche").
 tiene_patas("avestruz","largas").
 vuela("ave","bien").
 vuela("avestruz","no_puede").
 vuela("albatros","muy_bien").
+tiene("ave","plumas").
 tiene("ballena","piel").
 tiene("mamifero"."pelo").
 vive_en("ballena","mar").
