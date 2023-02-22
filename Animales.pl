@@ -1,5 +1,5 @@
 puede("animal","respirar").
-es_un("ave"."animal").
+es_un("ave","animal").
 es_un("mamifero"."animal").
 es_un("avestruz","ave").
 es_un("albatros","ave").
